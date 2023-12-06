@@ -22,5 +22,13 @@ class CheckoutApp extends StatelessWidget {
     );
   }
 }
+//! you shouid make public steps first 
+//?steps to add stripe getway
+//create userid
+//create payment intent
+//create ephemral key
+//init paymentsheet
+//present payment
 
-
+//?steps to add paypal 
+// use active package to make payment 
